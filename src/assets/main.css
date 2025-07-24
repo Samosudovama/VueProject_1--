@@ -1,0 +1,25 @@
+@import './base.css';
+
+
+#app {
+  width: 100%;  
+  font-weight: normal;
+  display: flex;
+  justify-content: center; 
+}
+
+p,
+h1 {
+  text-decoration: none;
+  color: rgb(9, 10, 9);
+}
+
+@media (min-width: 1000px) {
+  body {   
+    background-color: rgb(175, 242, 242);
+  }    
+}
+
+
+
+

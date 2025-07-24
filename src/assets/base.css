@@ -1,0 +1,31 @@
+
+* {
+  outline: none;
+  box-sizing: border-box;
+}
+
+.center {
+  width: 30%;   
+  text-align: center;
+}
+
+.error {  
+  color: rgb(180, 4, 4);  
+}
+
+body { 
+  display: flex;
+  justify-content: center;
+  background:  aqua;
+  font-family:
+    Inter,
+    -apple-system,
+    BlinkMacSystemFont,
+    'Segoe UI',
+    Roboto,    
+    sans-serif;
+  font-size: 15px;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
