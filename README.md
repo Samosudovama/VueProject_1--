@@ -1,4 +1,4 @@
-# VueProj---Receiving_data_from_the_user_and_displaying_the_resulting_data
+# VueProj-Receiving_data_from_the_user_and_displaying_the_resulting_data
 Получение данных от пользователя, вывод полученных данных на экран.
 
 This template should help get you started developing with Vue 3 in Vite.
